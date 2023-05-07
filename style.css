@@ -1,0 +1,9 @@
+.bT{
+    border-radius: 30px;
+    background-color: #f2f2f25d;
+}
+
+.btn:hover{
+    background-color: rgb(255, 205, 213) !important;
+    color: brown !important;
+}
